@@ -1,0 +1,4 @@
+My name is Sai Siddartha
+I started learning Python on 8 December 2025
+Current status: Anaconda is installing but I already made my first commit!
+I will be a data analyst by May 2026
